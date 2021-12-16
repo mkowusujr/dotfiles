@@ -113,7 +113,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'morhetz/gruvbox' 
 
 " autocomplete
-Plug 'valloric/youcompleteme'
+"Plug 'valloric/youcompleteme'
 
 " undo tree
 Plug 'mbbill/undotree'
