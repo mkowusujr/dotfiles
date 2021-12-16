@@ -1,5 +1,5 @@
-# mk_configs
-My Linux config files and their locations
+# dotfiles
+My Linux config files
 
 .vimrc
   contains my favorite vim settings and plugins
