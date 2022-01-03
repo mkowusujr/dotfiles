@@ -90,7 +90,7 @@ window:
 scrolling:
   # Maximum number of lines in the scrollback buffer.
   # Specifying '0' will disable scrolling.
-  history: 100000
+  history: 10000
 
   # Scrolling distance multiplier.
   multiplier: 3
@@ -161,7 +161,7 @@ colors:
   name: Galanthus (dark)
   author: Mathew Owusu Jr
   primary:
-    background: "#402f31"
+    background: "#5a3a3e"
     foreground: "#ffe2e7"
       #cursor:
       #text: "#000000"
